@@ -1,5 +1,5 @@
 name: resume_app
-description: Mohau Khakhu Resume App
+description: Mohau Khakhu - Ultimate Resume Portfolio
 
 publish_to: 'none'
 
@@ -12,6 +12,13 @@ dependencies:
   flutter:
     sdk: flutter
   url_launcher: ^6.1.11
+  share_plus: ^7.0.1
+  google_fonts: ^4.0.4
+  animated_text_kit: ^4.2.2
+  percent_indicator: ^4.0.0
+  carousel_slider: ^4.2.1
+  shimmer: ^2.0.0
+  expandable: ^5.0.1
 
 dev_dependencies:
   flutter_test:
